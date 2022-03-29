@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = pvbazilio@gmail.com
+	email = pvbazilio
 	name = Paulo Bazilio
